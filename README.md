@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Zac-blue?style=flat&logo=Linkedin&logoColor=white)][your-linkedin-url](https://www.linkedin.com/in/zac-munk/)
+- :mailbox:How to reach me: [https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white](https://www.linkedin.com/in/zac-munk/)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=zac0124&theme=highcontrast&show_icons=true&count_private=true)
 
