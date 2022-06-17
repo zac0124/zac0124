@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :mailbox:How to reach me: [https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white](https://www.linkedin.com/in/zac-munk/)
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=zac0124&theme=highcontrast&show_icons=true&count_private=true)
 
