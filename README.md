@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+### 42 stats :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -38,5 +38,8 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=zac0124&theme=highcontrast&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zac0124)
+
+### :hammer_and_wrench: Languages and Tools :
+
 [![zmunkhja's 42 stats](https://badge.mediaplus.ma/black/zmunkhja)](https://github.com/oakoudad/badge42)
 
