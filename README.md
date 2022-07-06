@@ -38,7 +38,5 @@ Here are some ideas to get you started:
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zac0124)
 
-### :hammer_and_wrench: Languages and Tools :
-
 [![zmunkhja's 42 stats](https://badge.mediaplus.ma/black/zmunkhja)](https://github.com/oakoudad/badge42)
 
