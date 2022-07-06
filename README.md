@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![zmunkhja's 42 stats](https://badge.mediaplus.ma/black/zmunkhja)](https://github.com/oakoudad/badge42)
 <!--
 **zac0124/zac0124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
