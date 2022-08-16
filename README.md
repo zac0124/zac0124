@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-### Contact me 
+### 🔔 :bell: Contact me 
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/zac-munk/">
