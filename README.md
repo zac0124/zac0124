@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-### 🔔 :bell: Contact me 
+### 🔔 Contact me 
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/zac-munk/">
@@ -8,7 +8,7 @@
   </a>
 </div>
 
-### Skills
+### 🗄️ Skills
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
@@ -17,7 +17,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
+### 🔥 My Stats :
 ![Github stats](https://github-readme-stats.vercel.app/api?username=zac0124&theme=highcontrast&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zac0124)
