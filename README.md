@@ -21,5 +21,5 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zac0124)
 
-[![<username>'s 42 stats](https://badge.mediaplus.ma/<greenbinary>/<zmunkhja>)](https://github.com/oakoudad/badge42)
+[![<zmunkhja>'s 42 stats](https://badge.mediaplus.ma/<greenbinary>/<zmunkhja>)](https://github.com/oakoudad/badge42)
 
